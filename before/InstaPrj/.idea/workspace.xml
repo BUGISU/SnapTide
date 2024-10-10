@@ -1,0 +1,125 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="95503d90-d59b-487d-8b66-4fe2581bf4f7" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../../insta_front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/package.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta_front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/App.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/NavigationBar.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/index.tsx" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="HTML File" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHomeTypeForPersistence" value="WRAPPER" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 6
+}</component>
+  <component name="ProjectId" id="2mXecM4m3h6gZMDetHFfxmCRfUq" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.InstaPrjApplication.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "JUnit.MembersRepositoryTests.insertMembers.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "ignore.virus.scanning.warn.message": "true",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/workspace/spaceSpring/InstaPrj/src/main/java/com/example/InstaPrj/security",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\java\com\example\InstaPrj\security" />
+      <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\java\com\example\InstaPrj" />
+      <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\resources\templates" />
+      <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\resources\static" />
+      <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.example.InstaPrj.controller" />
+      <recent name="com.example.InstaPrj.config" />
+      <recent name="com.example.InstaPrj.repository" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.InstaPrjApplication">
+    <configuration name="InstaPrjApplication" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.example.InstaPrj.InstaPrjApplication" />
+      <module name="InstaPrj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.InstaPrj.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MembersRepositoryTests.insertMembers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="InstaPrj" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.example.InstaPrj.repository.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.example.InstaPrj.repository" />
+      <option name="MAIN_CLASS_NAME" value="com.example.InstaPrj.repository.MembersRepositoryTests" />
+      <option name="METHOD_NAME" value="insertMembers" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.InstaPrjApplication" />
+        <item itemvalue="JUnit.MembersRepositoryTests.insertMembers" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="95503d90-d59b-487d-8b66-4fe2581bf4f7" name="Changes" comment="" />
+      <created>1727227426211</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1727227426211</updated>
+    </task>
+    <servers />
+  </component>
+</project>
