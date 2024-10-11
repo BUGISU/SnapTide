@@ -4,14 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="95503d90-d59b-487d-8b66-4fe2581bf4f7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/../../insta_front/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta_front/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/package-lock.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta_front/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta_front/src/App.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/App.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/NavigationBar.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/NavigationBar.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/../../insta_front/src/routes/Layout/index.tsx" afterDir="false" />
-    </list>
+    <list default="true" id="95503d90-d59b-487d-8b66-4fe2581bf4f7" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,22 +37,22 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.InstaPrjApplication.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "JUnit.MembersRepositoryTests.insertMembers.executor": "Run",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/workspace/spaceSpring/InstaPrj/src/main/java/com/example/InstaPrj/security",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.InstaPrjApplication.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;JUnit.MembersRepositoryTests.insertMembers.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/workspace/spaceSpring/InstaPrj/src/main/java/com/example/InstaPrj/security&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\workspace\spaceSpring\InstaPrj\src\main\java\com\example\InstaPrj\security" />
